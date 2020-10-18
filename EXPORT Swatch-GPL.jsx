@@ -13,7 +13,7 @@
 * commercial proporses.
 *
 * ----METADATA------------
-* REPOSITORY: 
+* REPOSITORY: https://github.com/pyqgis-estudos/AI_export_gpl
 * CREATION DATE: 2020-10-18
 * VERSION: 0.1
 *
